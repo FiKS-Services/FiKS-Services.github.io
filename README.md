@@ -1,2 +1,2 @@
-# FiKS.uk
+# fiks.uk
 FiKS webpage
